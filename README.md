@@ -1,4 +1,4 @@
-# predictive_maintenance
+# Predictive_Maintenance_machinery
 AI4I 2020 Predictive Maintenance Dataset.
 
 ### Models
